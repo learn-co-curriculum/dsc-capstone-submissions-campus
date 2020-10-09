@@ -1,8 +1,8 @@
-# Project Submission & Review (Campus)
+# Capstone Submission & Review (Campus)
 
 ## Introduction
 
-In this lesson, we review the requirements, submission, and review process for the Phase 2 Project.
+In this lesson, we review the requirements, submission, and review process for the Capstone Project.
 
 ## Objectives
 
