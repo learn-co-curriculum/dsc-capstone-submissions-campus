@@ -9,12 +9,13 @@ In this lesson, we review the requirements, submission, and review process for t
 You will be able to:
 
 * Create project deliverables that meet Flatiron School requirements
-* Submit your project deliverables in Canvas
-* Prepare for your project review
+* Review your Capstone project prior to submission
+* Submit your Capstone project deliverables in Canvas
+* Prepare for your Capstone review(s)
 
 ## Create Your Project Deliverables
 
-Complete the deliverables for your project, guided by the rubric at the bottom of the main project assignment. Keep in mind that the audience for these deliverables is not only your teacher, but also potential employers. Employers will look at your project deliverables to evaluate multiple skills, including coding, modeling, communication, and domain knowledge. You will want to polish these as much as you can, both during the course and afterwards.
+Complete the deliverables for your project, guided by the rubric at the bottom of the Capstone project assignment. Keep in mind that the audience for these deliverables is not only your teacher, but also potential employers. Employers will look at your project deliverables to evaluate multiple skills, including coding, modeling, communication, and domain knowledge. You will want to polish these as much as you can, both during the course and afterwards.
 
 ### GitHub Repository
 
@@ -27,6 +28,10 @@ Your Jupyter Notebook is the primary source of information about your analysis. 
 ### Non-Technical Presentation
 
 Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides. You will then present your project to your cohort.
+
+## Check Your project
+
+**Before submitting your Capstone Project**, please use the [Capstone MVP Submission Checklist](https://github.com/learn-co-curriculum/dsc-capstone-submission-checklist) to review your project. This checklist will ensure that your deliverables meet the MVP requirements so that you pass your review. While it may seem tedious, using a checklist is the best way to ensure that you haven't missed any requirements - your project will need to meet all requirements in order to pass review.
 
 ## Submit Your Project
 
@@ -57,7 +62,7 @@ To submit your project in Canvas, you will create and upload PDF versions of thr
 
 You will need to submit all three PDF files as a single submission:
 
-1. Click "Submit Assignment" at the top of this page.
+1. Click "Submit Assignment" at the top of the "Capstone Project" assignment in the "Milestones" topic.
 2. In the "File Upload" box, click "Choose File" button to upload a single file.
 3. Click the "Add Another File" link to upload an additional file.
 4. Repeat Step 3 to upload one more file. After this is done, all three files should be uploaded.
@@ -67,24 +72,18 @@ You will need to submit all three PDF files as a single submission:
 
 ### URL Submission in Canvas
 
-There is an additional Canvas assignment where you will just enter the URL for your project's GitHub repository. This is located in the "Milestones" topic in this course as "Phase X Project - GitHub Repository URL."
+There is an additional Canvas assignment where you will just enter the URL for your project's GitHub repository. This is located in the "Milestones" topic in this course as "Capstone Project - GitHub Repository URL."
 
 ## Project Review
 
-You have until the end of the week to present your project and submit it for review. You will receive a grade of P (Pass) or NP (No Pass) - you must pass in order to move to the next phase with your cohort. Your teacher will grade your submission and give you feedback, typically early in the week after you submit.
+You have until the middle of the second Capstone week to create and submit your Minimum Viable Product (MVP), which includes your project repo and presentation. Projects will be reviewed by your teachers by the end of the week.
 
-Which review process you receive will depend on whether you passed the code challenge, as described below.
+Teachers will review your project using the rubric at the bottom of the "Capstone Project" assignment in the Milestones module. Each element can receive a rating of "Complete", "MVP", or "Not Complete". You will pass and receive a score of "P" if **all elements are rated "MVP" or "Complete"**. You will not pass and receive a score of "NP" if **any elements are rated "Not Complete"**.
 
-### Passed Code Challenge: Check for Completion
-
-If you passed the code challenge, your teacher will review your project to check that it is complete. Your project will pass if you have completed and submitted all project deliverables. Your project will not be graded using the project rubric at the bottom of the project assignment, although you may find it helpful for guiding your project.
-
-### Did Not Pass Code Challenge: Rubric Grading
-
-If you did not pass the code challenge, your teacher will use the rubric at the bottom of the project assignment to grade your submission. You can earn 0, 1, or 2 points on each rubric element. Your project will pass if it earns at least 50% of the points available.
+If your project does not pass on the first review, you will have an option to re-submit your project in the middle of the final week for a second review. Your project must pass this second review for you to graduate with your cohort.
 
 ## Conclusion
 
 Thank you for your hard work on this project - you're going to do great! Remember that future employers will also look at your projects when deciding whether to hire you, so having complete, polished projects will help you tremendously not only to pass this assignment, but also to get the job you want after you graduate.
 
-If you have any questions about the project submission or review process, don't hesitate to ask your teacher.
+If you have any questions about the Capstone submission or review process, don't hesitate to ask your teacher.
