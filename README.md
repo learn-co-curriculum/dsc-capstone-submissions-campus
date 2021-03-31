@@ -80,7 +80,7 @@ There is an additional Canvas assignment where you will just enter the URL for y
 
 You have until the middle of the second Capstone week to create and submit your Minimum Viable Product (MVP), which includes your project repo and presentation. Projects will be reviewed by your teachers by the end of the week.
 
-Teachers will review your project using the rubric at the bottom of the "Capstone Project" assignment in the Milestones module. Each element can receive a rating of "Complete", "MVP", or "Not Complete". You will pass and receive a score of "P" if **all elements are rated "MVP" or "Complete"**. You will not pass and receive a score of "NP" if **any elements are rated "Not Complete"**.
+Teachers will review your project using the rubric at the bottom of the "Capstone Project" assignment in the Milestones module. Each element can receive a rating of "Exemplary", "Complete", or "Incomplete". You will pass and receive a score of "P" if **all elements are rated "Complete" or "Exemplary"**. You will not pass and receive a score of "NP" if **any elements are rated "Incomplete"**.
 
 If your project does not pass on the first review, you will have an option to re-submit your project in the middle of the final week for a second review. Your project must pass this second review for you to graduate with your cohort.
 
